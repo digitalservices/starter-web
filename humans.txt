@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Rolf Laun	rolf.laun@gmail.com	rolf_laun
 
 # THANKS
 
